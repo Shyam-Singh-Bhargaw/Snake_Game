@@ -17,10 +17,6 @@ Welcome to an improved and polished version of the classic Snake Game built with
 
 ---
 
-
-
----
-
 ## 🧪 Technologies Used
 
 | Tool      | Purpose                             |
